@@ -1,0 +1,240 @@
+[
+    {
+        "time": "07:30-08:30",
+        "title": "Tuesday Y11-13 Boys & Girls Volleyball",
+        "location": "Sports Hall",
+        "details_url": "EventDetails.asp?EventID=14516060",
+        "register_url": "EventRegister.asp?EventID=14516060"
+    },
+    {
+        "time": "07:30-08:30",
+        "title": "Tuesday Y7-13 Swimming",
+        "location": "Swimming pool",
+        "details_url": "EventDetails.asp?EventID=14073510",
+        "register_url": "EventRegister.asp?EventID=14073510"
+    },
+    {
+        "time": "07:45-08:30",
+        "title": "Tuesday Y7-13 Social Table Tennis and Pool",
+        "location": "Main Atrium",
+        "details_url": "EventDetails.asp?EventID=14073518",
+        "register_url": "EventRegister.asp?EventID=14073518"
+    },
+    {
+        "time": "14:45-15:30",
+        "title": "Tuesday Reception Art",
+        "location": "112",
+        "details_url": "EventDetails.asp?EventID=14146113",
+        "register_url": "EventRegister.asp?EventID=14146113"
+    },
+    {
+        "time": "14:45-15:30",
+        "title": "Tuesday Reception Kazakh Culture",
+        "location": "111",
+        "details_url": "EventDetails.asp?EventID=14146122",
+        "register_url": "EventRegister.asp?EventID=14146122"
+    },
+    {
+        "time": "14:45-15:30",
+        "title": "Tuesday Reception Yoga",
+        "location": "113",
+        "details_url": "EventDetails.asp?EventID=14146140",
+        "register_url": "EventRegister.asp?EventID=14146140"
+    },
+    {
+        "time": "15:15-16:00",
+        "title": "Tuesday Y1 Introduction to  Robotics and Physical Programming",
+        "location": "106",
+        "details_url": "EventDetails.asp?EventID=14071008",
+        "register_url": "EventRegister.asp?EventID=14071008"
+    },
+    {
+        "time": "15:15-16:00",
+        "title": "Tuesday Y1-2 Colouring",
+        "location": "108",
+        "details_url": "EventDetails.asp?EventID=14071040",
+        "register_url": "EventRegister.asp?EventID=14071040"
+    },
+    {
+        "time": "15:15-16:00",
+        "title": "Tuesday Y1-2 Drawing",
+        "location": "107",
+        "details_url": "EventDetails.asp?EventID=14071016",
+        "register_url": "EventRegister.asp?EventID=14071016"
+    },
+    {
+        "time": "15:15-16:00",
+        "title": "Tuesday Y1-2 Football",
+        "location": "Football Pitch",
+        "details_url": "EventDetails.asp?EventID=14071326",
+        "register_url": "EventRegister.asp?EventID=14071326"
+    },
+    {
+        "time": "15:15-16:00",
+        "title": "Tuesday Y1-2 French Club",
+        "location": "103",
+        "details_url": "EventDetails.asp?EventID=14071024",
+        "register_url": "EventRegister.asp?EventID=14071024"
+    },
+    {
+        "time": "15:15-16:00",
+        "title": "Tuesday Y1-2 Kazakh Reading",
+        "location": "114",
+        "details_url": "EventDetails.asp?EventID=14071334",
+        "register_url": "EventRegister.asp?EventID=14071334"
+    },
+    {
+        "time": "15:15-16:00",
+        "title": "Tuesday Y1-2 Puzzle Games",
+        "location": "104",
+        "details_url": "EventDetails.asp?EventID=14071032",
+        "register_url": "EventRegister.asp?EventID=14071032"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y3-4 Basic Scratch Programming",
+        "location": "JS Computer Room/109",
+        "details_url": "EventDetails.asp?EventID=14071103",
+        "register_url": "EventRegister.asp?EventID=14071103"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y3-4 French Club",
+        "location": "210",
+        "details_url": "EventDetails.asp?EventID=14071111",
+        "register_url": "EventRegister.asp?EventID=14071111"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y3-4 Junior Duke ",
+        "location": "214",
+        "details_url": "EventDetails.asp?EventID=14071119",
+        "register_url": "EventRegister.asp?EventID=14071119"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y3-4 Maths Skills (invite only)",
+        "location": "211",
+        "details_url": "EventDetails.asp?EventID=14071095",
+        "register_url": "EventRegister.asp?EventID=14071095"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y3-4 Writing",
+        "location": "209",
+        "details_url": "EventDetails.asp?EventID=14071087",
+        "register_url": "EventRegister.asp?EventID=14071087"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y3-6 Recorder and Flute Ensemble (Advanced Level)",
+        "location": "Rehearsal room",
+        "details_url": "EventDetails.asp?EventID=14109055",
+        "register_url": "EventRegister.asp?EventID=14109055"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y3-6 Vocal Ensemble  (Jungle Book Musical) ",
+        "location": "JS Music Room",
+        "details_url": "EventDetails.asp?EventID=14109063",
+        "register_url": "EventRegister.asp?EventID=14109063"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y5-6 Basketball",
+        "location": "Basketball court",
+        "details_url": "EventDetails.asp?EventID=14071582",
+        "register_url": "EventRegister.asp?EventID=14071582"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y5-6 Reading in Kazakh",
+        "location": "207",
+        "details_url": "EventDetails.asp?EventID=14071563",
+        "register_url": "EventRegister.asp?EventID=14071563"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y5-6 Sewing",
+        "location": "Art 2",
+        "details_url": "EventDetails.asp?EventID=14071190",
+        "register_url": "EventRegister.asp?EventID=14071190"
+    },
+    {
+        "time": "15:45-16:30",
+        "title": "Tuesday Y6 Introduction to Senior School (invite only)",
+        "location": "205",
+        "details_url": "EventDetails.asp?EventID=14574222",
+        "register_url": "EventRegister.asp?EventID=14574222"
+    },
+    {
+        "time": "15:45-16:45",
+        "title": "Tuesday Y3-6 Swimming (Boys)",
+        "location": "Swimming Pool",
+        "details_url": "EventDetails.asp?EventID=14071198",
+        "register_url": "EventRegister.asp?EventID=14071198"
+    },
+    {
+        "time": "15:45-16:45",
+        "title": "Tuesday Y3-6 Swimming (Girls)",
+        "location": "Swimming Pool",
+        "details_url": "EventDetails.asp?EventID=14071206",
+        "register_url": "EventRegister.asp?EventID=14071206"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y10 Duke of Edinburgh  Bronze",
+        "location": "Chemistry 1",
+        "details_url": "EventDetails.asp?EventID=14148118",
+        "register_url": "EventRegister.asp?EventID=14148118"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y10-13 Kazakh Society",
+        "location": "Kazakh 1",
+        "details_url": "EventDetails.asp?EventID=14073601",
+        "register_url": "EventRegister.asp?EventID=14073601"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y12-13 Duke of Edinburgh Silver",
+        "location": "Humanities 3",
+        "details_url": "EventDetails.asp?EventID=14073536",
+        "register_url": "EventRegister.asp?EventID=14073536"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y12-13 Maths Olympiad",
+        "location": "Maths 5",
+        "details_url": "EventDetails.asp?EventID=14073610",
+        "register_url": "EventRegister.asp?EventID=14073610"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y7-13 Eco Committee",
+        "location": "Biology 2",
+        "details_url": "EventDetails.asp?EventID=14073493",
+        "register_url": "EventRegister.asp?EventID=14073493"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y7-13 FIRST Tech Challenge",
+        "location": "Robotics Lab",
+        "details_url": "EventDetails.asp?EventID=14073546",
+        "register_url": "EventRegister.asp?EventID=14073546"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y7-13 Gaming the system",
+        "location": "Robotics Lab",
+        "details_url": "EventDetails.asp?EventID=14073501",
+        "register_url": "EventRegister.asp?EventID=14073501"
+    },
+    {
+        "time": "16:15-17:00",
+        "title": "Tuesday Y7-9 Maths Olympiad",
+        "location": "Maths 6",
+        "details_url": "EventDetails.asp?EventID=14073571",
+        "register_url": "EventRegister.asp?EventID=14073571"
+    }
+]
